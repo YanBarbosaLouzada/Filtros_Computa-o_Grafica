@@ -6,11 +6,11 @@ import matplotlib.pyplot as plt
 escolha = int(input("Escolha o numero e uma imagem ira passar nos filtros \n"))
 
 if escolha == 1:
-    imagem = cv2.imread('./Trabalho_2/Todos/placa.png')
+    imagem = cv2.imread('./Todos/placa.png')
 elif escolha == 2:
-    imagem = cv2.imread('./Trabalho_2/Todos/calma.jpg')
+    imagem = cv2.imread('./Todos/calma.jpg')
 elif escolha == 3:
-    imagem = cv2.imread('./Trabalho_2/Todos/emoji.jpg')
+    imagem = cv2.imread('./Todos/emoji.jpg')
 
 
 

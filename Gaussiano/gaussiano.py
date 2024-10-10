@@ -4,7 +4,7 @@ import numpy as np
 
 
 # Carregar a imagem
-imagem = cv2.imread('./Trabalho_2/Gaussiano/placa.png')
+imagem = cv2.imread('./Gaussiano/placa.png')
 
 
 # Filtro de suavização (Gaussiano)

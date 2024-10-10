@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Carregar a imagem
-imagem = cv2.imread('./Trabalho_2/Blur/placa.png')
+imagem = cv2.imread('./Blur/placa.png')
 imagem_rgb = cv2.cvtColor(imagem, cv2.COLOR_BGR2RGB)
 
 # Filtro de Média (Blur)

@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Carregar a imagem
-imagem = cv2.imread('./Trabalho_2/Sobel/placa.png')
+imagem = cv2.imread('./Sobel/placa.png')
 imagem_rgb = cv2.cvtColor(imagem, cv2.COLOR_BGR2RGB)
 
 # Filtro de realce de bordas (Sobel)
