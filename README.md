@@ -2,6 +2,8 @@
 
 Este README documenta os resultados da aplicação de diferentes filtros de imagem, incluindo aguçamento, média, gaussiano, laplaciano e Sobel.
 
+![image](https://github.com/user-attachments/assets/0a8de2aa-d77b-4201-a927-bb059c07673a)
+
 ## Filtros Aplicados
 
 1. **Aguçamento**: Realça detalhes da imagem, acentuando bordas e áreas de transição.
@@ -13,6 +15,12 @@ Este README documenta os resultados da aplicação de diferentes filtros de imag
 ## Análise dos Resultados
 
 ### 1. Como a imagem original mudou após a aplicação de cada filtro?
+
+![image](https://github.com/user-attachments/assets/7f7cf86b-bf37-4711-9354-fde299090ce3)
+
+![image](https://github.com/user-attachments/assets/722f3af1-e635-4650-8c88-608b89345cd9)
+
+![image](https://github.com/user-attachments/assets/f0d310bb-b5c3-4790-9f75-c444473683e6)
 
 - **Aguçamento**: A imagem ficou mais nítida e os detalhes mais pronunciados, especialmente nas bordas e áreas de transição.
 - **Filtro de Média**: A imagem ficou suavizada, com perda de detalhes, especialmente nas bordas.
